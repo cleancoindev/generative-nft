@@ -6,7 +6,7 @@
   "author": "skogard@protonmail.com",
   "license": "MIT",
   "dependencies": {
-    "@dicebear/avatars": "^4.8.5",
+    "@dicebear/avatars": "^4.10.2",
     "@dicebear/open-peeps": "^4.8.5",
     "rarepress": "^0.1.6"
   }
